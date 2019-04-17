@@ -2,12 +2,12 @@ package bitcamp.project.test;
 
 import bitcamp.project.test.service.DeviceService;
 import bitcamp.project.test.service.Minus;
-
 import bitcamp.project.test.service.Square;
 
 public class App {
-
+  
   public static void main(String[] args) {
+
     System.out.println("hahahahahahahahahaha");
     Minus m = new Minus();
     m.minus();
@@ -24,8 +24,12 @@ public class App {
     int a = 10;
     int b = 5;
 
-    Mul m2 = new Mul();
-    System.out.println(m2.mul(a, b));
-  }
+    Mul mm = new Mul();
+    System.out.println(mm.mul(a, b));
+
+
+
+}
+
 }
 
