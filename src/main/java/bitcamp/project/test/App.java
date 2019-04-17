@@ -3,6 +3,9 @@ package bitcamp.project.test;
 import bitcamp.project.test.service.DeviceService;
 import bitcamp.project.test.service.Minus;
 
+
+    
+
 public class App {
   public String getGreeting() {
     return "Hello world.";
@@ -20,5 +23,11 @@ public class App {
     int a = 10;
     int b = 5;
     
+    Mul m2 = new Mul();
+    System.out.println(m2.mul(a, b));
+    
+  
   }
   }
+
+
