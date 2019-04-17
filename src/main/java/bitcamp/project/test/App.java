@@ -36,7 +36,6 @@ public class App {
 
     plus1.plus(10,20);
 
-
   }
 
 }
