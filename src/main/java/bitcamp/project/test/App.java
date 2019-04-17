@@ -1,4 +1,3 @@
-
 package bitcamp.project.test;
 
 import bitcamp.project.test.service.DeviceService;
@@ -10,7 +9,7 @@ public class App {
   public String getGreeting() {
     return "Hello world."; 
   }
-   
+
   public static void main(String[] args) {
     System.out.println("hahahahahahahahahaha");
     Minus m = new Minus();
@@ -30,8 +29,8 @@ public class App {
 
     Mul m2 = new Mul();
     System.out.println(m2.mul(a, b));
-   
-  
+
+
     Plus plus1 = new Plus();           
 
     plus1.plus(10,20);
@@ -39,9 +38,4 @@ public class App {
   }
 
 }
-    
-  
-  
-
-
 
