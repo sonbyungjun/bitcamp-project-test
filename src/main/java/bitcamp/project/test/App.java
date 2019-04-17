@@ -1,5 +1,6 @@
 package bitcamp.project.test;
 
+import bitcamp.project.test.service.DeviceService;
 import bitcamp.project.test.service.Square;
 
 public class App {
@@ -12,5 +13,10 @@ public class App {
        Square square = new Square();
        square.execute();
        System.out.println("---------------------------");
+       
+       System.out.println("***************************");
+       DeviceService d = new DeviceService();
+       d.device();
+       System.out.println("***************************");
     }
 }
