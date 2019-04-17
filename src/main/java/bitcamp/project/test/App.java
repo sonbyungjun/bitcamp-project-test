@@ -3,8 +3,6 @@ package bitcamp.project.test;
 import bitcamp.project.test.service.DeviceService;
 import bitcamp.project.test.service.Minus;
 
-
-    
 import bitcamp.project.test.service.Square;
 
 public class App {
@@ -25,11 +23,9 @@ public class App {
     System.out.println("***************************");
     int a = 10;
     int b = 5;
-    
+
     Mul m2 = new Mul();
     System.out.println(m2.mul(a, b));
-    
-  
   }
-  }
+}
 
