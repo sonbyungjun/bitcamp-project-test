@@ -17,5 +17,8 @@ public class App {
     DeviceService d = new DeviceService();
     d.device();
     System.out.println("***************************");
+    int a = 10;
+    int b = 5;
+    
   }
   }
