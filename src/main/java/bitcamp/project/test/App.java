@@ -4,15 +4,10 @@ import bitcamp.project.test.service.DeviceService;
 import bitcamp.project.test.service.Minus;
 import bitcamp.project.test.service.Square;
 
-    
-
-
-    
-
 public class App {
   
   public static void main(String[] args) {
-    
+
     System.out.println("hahahahahahahahahaha");
     Minus m = new Minus();
     m.minus();
@@ -26,24 +21,15 @@ public class App {
     DeviceService d = new DeviceService();
     d.device();
     System.out.println("***************************");
-  
     int a = 10;
     int b = 5;
-    
-<<<<<<< HEAD
-    Mul m = new Mul();
-    System.out.println(m.mul(a, b));
-=======
+
     Mul mm = new Mul();
     System.out.println(mm.mul(a, b));
->>>>>>> refs/heads/jeonwork
-    
-  
-  }
 
 
-<<<<<<< HEAD
+
 }
-=======
+
 }
->>>>>>> refs/heads/jeonwork
+
