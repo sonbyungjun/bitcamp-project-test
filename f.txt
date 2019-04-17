@@ -1,8 +1,23 @@
+
+adfasdfasdfasdfasdfasdfasdfasdfasdf
+우헤헤헤헤헤헤
+
+라라라...
+
+병준: 엥
+
 라라라...
 호오라....
 옆에 너무 무서우어
 우헤헤헤헤헤헤
 
+<<<<<<< HEAD
+=======
 전민희 : 집
 adfasdfasdfasdfasdfasdfasdfasdfasdf
+>>>>>>> branch 'master' of https://github.com/sonbyungjun/bitcamp-project-test.git
 우헤헤헤헤헤헤
+
+sdfasdf
+
+하하
