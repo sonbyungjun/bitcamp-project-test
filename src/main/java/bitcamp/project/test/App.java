@@ -1,5 +1,6 @@
 package bitcamp.project.test;
 
+import bitcamp.project.test.service.DeviceService;
 import bitcamp.project.test.service.Minus;
 
 public class App {
@@ -12,5 +13,9 @@ public class App {
     Minus m = new Minus();
     m.minus();
     System.out.println("hohohohohohoho");
+    System.out.println("***************************");
+    DeviceService d = new DeviceService();
+    d.device();
+    System.out.println("***************************");
   }
-}
+  }
