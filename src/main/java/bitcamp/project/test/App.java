@@ -9,6 +9,11 @@ public class App {
     }
 
     public static void main(String[] args) {
-        System.out.println(new App().getGreeting());
+     int a = 10;
+     int b = 5;
+      
+      Mul m = new Mul();
+     System.out.println(m.mul(a, b));
+      
     }
 }
